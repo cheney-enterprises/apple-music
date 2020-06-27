@@ -1,6 +1,8 @@
 {
-  "name": "apple-music",
-  "version": "0.1.0",
+  "name": "applemusic",
+  "version": "1.0.0",
+  "description": "Proof of concept react music app",
+  "main": "src/index.ts",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -35,5 +37,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheney-enterprises/apple-music.git"
+  },
+  "author": "cheney-enterprises",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheney-enterprises/apple-music/issues"
+  },
+  "homepage": "https://music-kit.surge.sh"
 }
